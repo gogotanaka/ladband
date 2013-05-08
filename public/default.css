@@ -31,9 +31,14 @@ input, textarea, select {
 }
 
 
-h1, h2, h3 {
+h2, h3 {
 	font-weight: normal;
 	color: #212121;
+}
+
+h1 {
+	font-weight: normal;
+	color: #228B22;
 }
 
 h1 {
@@ -140,6 +145,7 @@ img.right {
 
 #logo {
 	float: left;
+	margin-top: 21px;
 }
 
 #logo a {
