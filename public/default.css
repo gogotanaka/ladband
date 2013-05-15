@@ -200,7 +200,7 @@ img.right {
 
 #latest-post {
 	float: left;
-	width: 570px;
+	width: 600px;
 	padding: 0px 20px 0px 20px;
 	line-height: 25px;
 	font-size: 12px;
@@ -208,8 +208,43 @@ img.right {
 
 #recent-posts {
 	float: right;
-	width: 250px;
+	width: 220px;
 	padding: 0px 20px 20px 20px;
+	line-height: 25px;
+	font-size: 12px;
+}
+
+#history-main {
+	float: left;
+	width: 800px;
+	padding: 0px 20px 0px 20px;
+	line-height: 25px;
+	font-size: 12px;
+
+}
+
+#history-left {
+	float: left;
+	width: 200px;
+}
+#history-right {
+	float: left;
+	width: 600px;
+}
+
+#event-left {
+	float: left;
+	width: 300px;
+}
+#event-right {
+	float: left;
+	width: 500px;
+}
+
+#blog-main {
+	float: left;
+	width: 800px;
+	padding: 0px 20px 0px 50px;
 	line-height: 25px;
 	font-size: 12px;
 }
